@@ -18,8 +18,13 @@ This project is a **machine learning–based phishing URL detection system**. It
 ## 📂 Project Structure
 
 OutriX_tasks/
+
 │── phishing.py # Main Flask app
+
 │── phishing_model.pkl # Trained ML model
+
 │── templates/ # HTML frontend
+
 │── Analysis_Result[Phishing].png # Result visualization
+
 │── Demo.mp4 # Demo video of the project
