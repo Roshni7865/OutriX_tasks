@@ -27,4 +27,6 @@ OutriX_tasks/
 
 │── Analysis_Result[Phishing].png # Result visualization
 
+│── Analysis_result[Legitimate].png # Result visualization
+
 │── Demo.mp4 # Demo video of the project
